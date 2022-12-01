@@ -1,0 +1,108 @@
+body {
+    background: #eac4ff ;
+}
+
+
+th, td {
+    padding: 20px 40px 20px;
+    text-align: center;
+}
+
+th {
+    padding-top: 22px;
+    text-shadow: 1px 1px 1px #fff;
+    background: #f6f6f6;
+}
+
+td {
+    border-top: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    border-radius: 10px;
+}
+
+tr.odd-row td {
+    background: #f6f6f6;
+}
+
+td.first, th.first {
+    text-align: center;
+}
+
+td.last {
+    border-right: none;
+}
+
+td {
+    background:#f6f6f6;
+
+}
+
+tr.odd-row td {
+    background: #f6f6f6;
+}
+
+th {
+    background: #f6f6f6;
+}
+
+header {
+    background:#ffe6e8 ;
+    height: 50px;
+    border: 3px ;
+}
+
+.title {
+    font-size: 29px;
+    padding-top: 12px;
+    text-align: center;
+
+}
+.left{
+    width: 48%;
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.right{
+    width: 48%;
+    float: right;
+    text-align: right;
+    padding-top: 2px;
+    padding-right: 15px;
+}
+
+a:before{
+    color: #000000;
+
+    text-decoration:none
+}
+a:active {
+
+    color: #000000;
+
+    text-decoration:none
+
+}
+
+a:visited {
+
+    color: #000000;
+
+    text-decoration:none
+
+}
+
+a:hover {
+
+    color: #000000;
+
+    text-decoration: underline
+
+}
+.sales1 {
+    font-size: 29px;
+    padding-top: 200px;
+    text-align: center;
+}
